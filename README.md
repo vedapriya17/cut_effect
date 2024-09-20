@@ -4,4 +4,4 @@
 
 👉Input the photo and see changes
 
-👀click for view:
+👀click for view:https://vedapriya17.github.io/cut_effect/
